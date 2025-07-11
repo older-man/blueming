@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "blueming",
   description: "根据学习高仿组件库",
-  base:"/blueming/",
+  base:"/docs/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
