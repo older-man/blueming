@@ -1,0 +1,6 @@
+for i in components core play utils docs theme hooks; do
+  cd $i
+  pnpm init
+  cd ../
+done
+
