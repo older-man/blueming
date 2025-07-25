@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  <BM-button />
+  <BM-button type="primary" size="large">
+    test
+  </BM-button>
 </template>
 
 <style scoped>
